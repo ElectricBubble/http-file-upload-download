@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="shortcut icon" href="/asset/favicon.ico">
+<!-- <link rel="shortcut icon" type="image/x-icon" href="/asset/favicon.ico"> -->
+<!-- <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/asset/favicon.ico"> -->
+    <link rel="mask-icon" color="black" href="/asset/miao.svg">
+    <link rel="apple-touch-icon" href="/asset/miao.png">
+    <link rel="Bookmark" href="/asset/miao.png" />
+
+    <script src="/asset/vue.min.js"></script>
+    <link rel="stylesheet" href="/asset/element-ui/lib/theme-chalk/index.css">
+    <script src="/asset/element-ui/lib/index.js"></script>
+</head>
+<body>
